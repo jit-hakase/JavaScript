@@ -26,5 +26,4 @@ let option = {
         ]
     }]
 }
-
 chart.setOption(option)
