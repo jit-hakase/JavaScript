@@ -3,6 +3,9 @@ let option = {
     title: {
         text: 'Candlesticks'
     },
+    tooltip: {
+      trigger: 'axis'  
+    },
     xAxis: {
         data: ['2017-10-24', '2017-10-25', '2017-10-26', '2017-10-27']
     },
